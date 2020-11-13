@@ -18,7 +18,7 @@ The objective of this small project is to train a classifier that enables to det
 Jigsaw toxic comment data [2] is a set of data containing toxic comments and binary indicators to represent whether the data is toxic or non-toxic. For this project, a small part of Jigsaw toxic comment data will be used to train, test, and validate a supervised learning classifier in order to identify aggressive words. Data preprocessing is done to remove unnecessary items from the dataset. After data preprocessing, data is split into train, test, and validate dataset.
 N-gram features from the data are taken and weight them according to the TFIDF value. Then, a logistics regression model is used for the classification. Finally, the hyperparameters of the machine learning model are tuned to get the best result [3]. 
 
-![alt text](https://github.com/Manojkl/Aggressive-language-classifier-NLP/blob/master/images/Final/wordcloud/unigram_notoxic_wordcloud.png)
+![alt text](https://github.com/Manojkl/Aggressive-language-classifier-NLP/blob/master/images/Final/wordcloud/unigram_notoxic_wordcloud.png)![alt text](https://github.com/Manojkl/Aggressive-language-classifier-NLP/blob/master/images/Final/wordcloud/unigram_toxic_wordcloud.png)
 
 ## Reference
 
